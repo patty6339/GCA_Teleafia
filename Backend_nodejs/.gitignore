@@ -1,0 +1,9 @@
+
+# ignore node modules
+node_modules
+
+# ignore logs
+log
+
+#ignore mpesa response
+m-pesa_response
